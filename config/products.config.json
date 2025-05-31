@@ -1,0 +1,17 @@
+{
+  "wonderbaby": {
+    "platforms": {
+      "instagram": {
+        "accountId": "ig_account_id",
+        "postsPerDay": 8,
+        "postTimes": ["09:00", "11:30", "14:00", "16:00", "17:30", "19:00", "20:30", "22:00"]
+      },
+      "tiktok": {
+        "accountId": "tt_account_id",
+        "postsPerDay": 5,
+        "postTimes": ["10:00", "13:00", "15:30", "18:00", "21:00"]
+      }
+    },
+    "contentPath": "/home/ubuntu/video-publisher-system/test-content/wonderbaby"
+  }
+}
